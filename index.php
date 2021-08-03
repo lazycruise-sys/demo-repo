@@ -1,5 +1,11 @@
 <?php
 
-echo "Hello World"
+echo "Hello World";
+
+$word = "Olorunfemi";
+
+if ($word == "Olorunfemi") {
+    echo TRUE;
+}
 
 ?>
