@@ -9,3 +9,7 @@ watch tutorial on [youtube](https://youtube.com/user/lazycruise).
 ## default local development environment
 
 visual studio code because everyone loves it. i guess microsoft beat everyone to that.
+
+## mistakes happengit
+
+we can always correct them
